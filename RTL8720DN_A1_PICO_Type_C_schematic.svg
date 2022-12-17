@@ -18,6 +18,12 @@
   <defs
      id="defs2">
     <rect
+       x="52.234944"
+       y="4.8441478"
+       width="105.4787"
+       height="169.08395"
+       id="rect923" />
+    <rect
        x="90.752083"
        y="62.885414"
        width="50.535416"
@@ -37,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2316035"
+     inkscape:zoom="0.9983453"
      inkscape:cx="178.36872"
-     inkscape:cy="262.49582"
+     inkscape:cy="121.76451"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -61,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,7 +85,7 @@
        y="41.959316" />
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.20692"
        y="54.947918"
        id="use897"
@@ -89,10 +95,10 @@
          id="tspan987"
          x="147.20692"
          y="54.947918"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.20692"
        y="62.174034"
        id="use899"
@@ -102,10 +108,10 @@
          id="tspan991"
          x="147.20692"
          y="62.174034"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.20692"
        y="69.400146"
        id="use901"
@@ -115,10 +121,10 @@
          id="tspan995"
          x="147.20692"
          y="69.400146"
-         style="stroke-width:0.264583;font-size:5.5px;">3</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.29726"
        y="76.626266"
        id="use903"
@@ -128,10 +134,10 @@
          id="tspan999"
          x="147.29726"
          y="76.626266"
-         style="stroke-width:0.264583;font-size:5.5px;">2</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.25575"
        y="83.852386"
        id="use905"
@@ -141,10 +147,10 @@
          id="tspan1003"
          x="147.25575"
          y="83.852386"
-         style="stroke-width:0.264583;font-size:5.5px;">6</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">6</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.26796"
        y="91.078506"
        id="use907"
@@ -154,10 +160,10 @@
          id="tspan1007"
          x="147.26796"
          y="91.078506"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.26796"
        y="98.304611"
        id="use909"
@@ -167,10 +173,10 @@
          id="tspan1011"
          x="147.26796"
          y="98.304611"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.10683"
        y="105.53073"
        id="use911"
@@ -180,10 +186,10 @@
          id="tspan1015"
          x="147.10683"
          y="105.53073"
-         style="stroke-width:0.264583;font-size:5.5px;">12</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">12</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.10683"
        y="112.75685"
        id="use913"
@@ -193,10 +199,10 @@
          id="tspan1019"
          x="147.10683"
          y="112.75685"
-         style="stroke-width:0.264583;font-size:5.5px;">11</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">11</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.10683"
        y="119.98296"
        id="use915"
@@ -206,10 +212,10 @@
          id="tspan1023"
          x="147.10683"
          y="119.98296"
-         style="stroke-width:0.264583;font-size:5.5px;">10</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">10</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.29726"
        y="127.20908"
        id="use917"
@@ -219,10 +225,10 @@
          id="tspan1027"
          x="147.29726"
          y="127.20908"
-         style="stroke-width:0.264583;font-size:5.5px;">9</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">9</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.14101"
        y="134.4352"
        id="use919"
@@ -232,10 +238,10 @@
          id="tspan1031"
          x="147.14101"
          y="134.4352"
-         style="stroke-width:0.264583;font-size:5.5px;">3V3</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">3V3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.26796"
        y="141.6613"
        id="use921"
@@ -245,10 +251,10 @@
          id="tspan1035"
          x="147.26796"
          y="141.6613"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.26796"
        y="148.88742"
        id="use923"
@@ -258,10 +264,10 @@
          id="tspan1039"
          x="147.26796"
          y="148.88742"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.26796"
        y="156.11354"
        id="use925"
@@ -271,10 +277,10 @@
          id="tspan1043"
          x="147.26796"
          y="156.11354"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="54.947918"
        id="text1049"
@@ -284,10 +290,10 @@
          id="tspan1047"
          x="75.506126"
          y="54.947918"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="62.174034"
        id="text1053"
@@ -297,10 +303,10 @@
          id="tspan1051"
          x="75.506126"
          y="62.174034"
-         style="stroke-width:0.264583;font-size:5.5px;">4</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="69.400146"
        id="text1057"
@@ -310,10 +316,10 @@
          id="tspan1055"
          x="75.506126"
          y="69.400146"
-         style="stroke-width:0.264583;font-size:5.5px;">0</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="76.626266"
        id="text1061"
@@ -323,10 +329,10 @@
          id="tspan1059"
          x="75.506126"
          y="76.626266"
-         style="stroke-width:0.264583;font-size:5.5px;">5</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="83.852386"
        id="text1065"
@@ -336,10 +342,10 @@
          id="tspan1063"
          x="75.506126"
          y="83.852386"
-         style="stroke-width:0.264583;font-size:5.5px;">1</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="91.078506"
        id="text1069"
@@ -349,10 +355,10 @@
          id="tspan1067"
          x="75.506126"
          y="91.078506"
-         style="stroke-width:0.264583;font-size:5.5px;">EN</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">EN</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="98.304611"
        id="text1073"
@@ -362,10 +368,10 @@
          id="tspan1071"
          x="75.506126"
          y="98.304611"
-         style="stroke-width:0.264583;font-size:5.5px;">3V3</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">3V3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="105.53073"
        id="text1077"
@@ -375,10 +381,10 @@
          id="tspan1075"
          x="75.506126"
          y="105.53073"
-         style="stroke-width:0.264583;font-size:5.5px;">7</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">7</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="112.75685"
        id="text1081"
@@ -388,10 +394,10 @@
          id="tspan1079"
          x="75.506126"
          y="112.75685"
-         style="stroke-width:0.264583;font-size:5.5px;">8</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">8</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="119.98296"
        id="text1085"
@@ -401,10 +407,10 @@
          id="tspan1083"
          x="75.506126"
          y="119.98296"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="127.20908"
        id="text1089"
@@ -414,10 +420,10 @@
          id="tspan1087"
          x="75.506126"
          y="127.20908"
-         style="stroke-width:0.264583;font-size:5.5px;">G</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="75.506126"
        y="134.4352"
        id="text1093"
@@ -427,7 +433,7 @@
          id="tspan1091"
          x="75.506126"
          y="134.4352"
-         style="stroke-width:0.264583;font-size:5.5px;">3V3</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">3V3</tspan></text>
     <rect
        style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect1107"
@@ -681,7 +687,7 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.217516;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.217516;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="89.006165"
        y="92.036812"
        id="text930"><tspan
@@ -689,20 +695,20 @@
          id="tspan928"
          x="89.006165"
          y="92.036812"
-         style="stroke-width:0.217516;font-size:5.5px;">RTL8720DN</tspan><tspan
+         style="font-size:6;stroke-width:0.217516;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">RTL8720DN</tspan><tspan
          sodipodi:role="line"
          x="89.006165"
-         y="102.31316"
-         style="stroke-width:0.217516;font-size:5.5px;"
+         y="99.536812"
+         style="font-size:6;stroke-width:0.217516;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan925">A1 PICO</tspan><tspan
          sodipodi:role="line"
          x="89.006165"
-         y="112.58951"
-         style="stroke-width:0.217516;font-size:5.5px;"
+         y="107.03681"
+         style="font-size:6;stroke-width:0.217516;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan927" /></text>
     <text
        xml:space="preserve"
-       style="font-size:5.5px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:6;line-height:1.25;font-family:Droid;stroke-width:0.264583;-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="147.09218"
        y="163.37579"
        id="text931"
@@ -712,7 +718,7 @@
          id="tspan929"
          x="147.09218"
          y="163.37579"
-         style="stroke-width:0.264583;font-size:5.5px;">5V</tspan></text>
+         style="font-size:6;stroke-width:0.264583;-inkscape-font-specification:Droid;font-family:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">5V</tspan></text>
     <use
        x="0"
        y="0"
@@ -722,5 +728,9 @@
        id="use933"
        width="100%"
        height="100%" />
+    <text
+       xml:space="preserve"
+       id="text921"
+       style="font-size:2.5;line-height:1.25;font-family:Droid;word-spacing:0;white-space:pre;shape-inside:url(#rect923);-inkscape-font-specification:Droid;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" />
   </g>
 </svg>
