@@ -57,11 +57,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54115914"
-     inkscape:cx="574.99073"
-     inkscape:cy="131.02521"
+     inkscape:zoom="5.7101619"
+     inkscape:cx="225.56753"
+     inkscape:cy="135.87088"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3064"
      inkscape:document-rotation="0"
      showgrid="true"
      objecttolerance="19.3"
@@ -1713,23 +1713,24 @@
            xml:space="preserve"
            style="font-size:1.26572px;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#abaa96;fill-opacity:1;stroke-width:0.133955"
            x="230.57819"
-           y="103.8936"
-           id="text3019"><tspan
+           y="-102.97336"
+           id="text3019"
+           transform="scale(1,-1)"><tspan
              sodipodi:role="line"
              id="tspan3017"
              x="230.57819"
-             y="103.8936"
-             style="fill:#abaa96;fill-opacity:1;stroke-width:0.133955">HDM</tspan></text>
+             y="-102.97336"
+             style="fill:#abaa96;fill-opacity:1;stroke-width:0.133955">WCH</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:0.784441px;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#a3a190;fill-opacity:1;stroke-width:0.0830199"
-           x="-234.08359"
+           x="230.46666"
            y="-105.0649"
            id="text3023"
-           transform="scale(-1)"><tspan
+           transform="scale(1,-1)"><tspan
              sodipodi:role="line"
              id="tspan3021"
-             x="-234.08359"
+             x="230.46666"
              y="-105.0649"
              style="fill:#a3a190;fill-opacity:1;stroke-width:0.0830199">CH9102F</tspan></text>
       </g>
@@ -3234,7 +3235,7 @@
            id="tspan1613"
            x="137.6846"
            y="87.425804"
-           style="font-size:2px;stroke-width:0.264583">PB8</tspan></text>
+           style="font-size:2px;stroke-width:0.264583">PA8</tspan></text>
     </g>
     <g
        id="g1700"

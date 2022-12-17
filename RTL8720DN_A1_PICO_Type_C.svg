@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Rtlduino.svg">
+   sodipodi:docname="RTL8720DN_A1_PICO_Type_C.svg">
   <defs
      id="defs2">
     <clipPath
@@ -151,11 +151,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.88"
-     inkscape:cx="174.97581"
-     inkscape:cy="95.991266"
+     inkscape:zoom="7.03"
+     inkscape:cx="48.253613"
+     inkscape:cy="152.89027"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3064"
      inkscape:document-rotation="0"
      showgrid="true"
      objecttolerance="19.3"
@@ -1807,23 +1807,24 @@
            xml:space="preserve"
            style="font-size:1.26572;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#abaa96;fill-opacity:1;stroke-width:0.133955"
            x="230.57819"
-           y="103.8936"
-           id="text3019"><tspan
+           y="-102.97336"
+           id="text3019"
+           transform="scale(1,-1)"><tspan
              sodipodi:role="line"
              id="tspan3017"
              x="230.57819"
-             y="103.8936"
-             style="fill:#abaa96;fill-opacity:1;stroke-width:0.133955">HDM</tspan></text>
+             y="-102.97336"
+             style="fill:#abaa96;fill-opacity:1;stroke-width:0.133955">WCH</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:0.784441;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#a3a190;fill-opacity:1;stroke-width:0.0830199"
-           x="-234.08359"
+           x="230.46666"
            y="-105.0649"
            id="text3023"
-           transform="scale(-1)"><tspan
+           transform="scale(1,-1)"><tspan
              sodipodi:role="line"
              id="tspan3021"
-             x="-234.08359"
+             x="230.46666"
              y="-105.0649"
              style="fill:#a3a190;fill-opacity:1;stroke-width:0.0830199">CH9102F</tspan></text>
       </g>
