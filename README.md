@@ -21,6 +21,10 @@ Kevin’s Lab 的補給站 young257038@gmail.com
 shopee:  
 <https://shopee.tw/Arduino-A1-PICO-Type-C-%E9%96%8B%E7%99%BC%E6%9D%BF%EF%BC%88-RTL8720DN-%E9%9B%99%E9%A0%BBWiFi-%E4%BD%8E%E5%8A%9F%E8%80%97%E8%97%8D%E7%89%995.0-BW16%EF%BC%89-i.670254765.19227118274>
 
+## pinmap
+
+![圖例](./pinmap/RTL8720DN_A1_PICO_Type_C_pinmap.svg)  
+
 ## Specification
 
 FSC-BW236 manual:  
